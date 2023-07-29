@@ -1,0 +1,112 @@
+[
+
+    {
+        "name":"Deepcool XFAN 80 Case Cooling Fan",
+        "image":"https://i.ibb.co/7tBNXBt/xfan-80-01-228x228.jpg",
+        "description":"High Quality 80mm Black fan Low-speed RPM, Hydro Bearing FanMax Fan Speed 1800 RPM",
+        "price":350
+    },
+    {
+        "name": "Revenger TURBO 120mm RGB Case Fan",
+        "image": "https://i.ibb.co/4WySSC5/turbo-01-228x228.webp",
+        "description":"Fan Speed: 1200RPM ±10% Air Flow: 30 CFM Noise Level: 19.5 dBA Connector: 4 Pin",
+        "price":450
+    },
+    {
+        "name": "Revenger NAGA Mid Tower RGB Gaming Case",
+        "image": "https://i.ibb.co/FnqG64F/revenger-naga-01-228x228.webp",
+        "description":"Motherboard Support: M-ATX / ATX Material: Metal, Acrylic Glass Side Panel PSU bottom-loaded, 0.5mm Steel1 RGB front Fan installed",
+        "price":250
+    },
+    {
+        "name": "EKWB PVC 10-12mm Tube Clamp",
+        "image": "https://i.ibb.co/bLG3F5b/pvc-tube-01-228x228.jpg",
+        "description":"Fast and Easy Clamping to EnsureVery Strong Plastic Materials Highly Durable High Degree of Adjustability",
+        "price":350
+    },
+    {
+        "name": "Power Train PT-P200B 200W Power Supply",
+        "image": "https://i.ibb.co/qnggZLx/pt-p200b-01-228x228.webp",
+        "description":" Power: 200W Voltage: 220V  Modular Type: Non-Modular 1x 12CM Temperature Control Fan",
+        "price":150
+    },
+    {
+        "name": "Netac SA500 128GB 2.5-inch SATAIII SSD",
+        "image": "https://i.ibb.co/C0V1R5j/ls-ne-sa500-01-228x228.webp",
+        "description":"Capacity: 128GBInterface: SATA III, 6.0 GB/sForm Factor: 2.5 inch Read: 500 MB/s, Write: 400 MB/s",
+        "price":250
+    },
+    {
+        "name": "Crucial 4GB Single DDR4 2666MHz Laptop RAM",
+        "image": "https://i.ibb.co/2cWm6by/jetram-4gb-01-228x228.webp",
+        "description":"Extra Fast and Ultra Efficient 2666 MHz Clock Speed PC Speed - PC4-21300 CAS Latency: CL19 ",
+        "price":150
+    },
+    {
+        "name": "Corsair iCUE SP120 RGB ELITE Performance 120mm White PWM Case Fan",
+        "image": "https://i.ibb.co/N99Jjy0/icue-sp120-rgb-elite-01-228x228.jpg",
+        "description":"Operating Voltage: 6V - 13.2V; PWM Contro Bearing Type: HydraulicFan Size: 120mm x 25mm Fan Airflow: 16.91 - 47.73 CFM ",
+        "price":140
+    },
+    {
+        "name": "DeepCool ICE EDGE MINI FS V2.0 CPU Air Cooler",
+        "image": "https://i.ibb.co/KrdC43g/ice-edge-mini-fs-v2-0-228x228.jpg",
+        "description":" Fan Speed: 2200 RPMÂ±10% Fan Connector: 3-pin Hydro Bearing Supports Intel and AMD",
+        "price":70
+    },
+    {
+        "name": "FSP Hydro K PRO 600W 80 Plus Bronze Power Supply",
+        "image": "https://i.ibb.co/qr5MTbP/hydro-k-pro-500w-228x228.webp",
+        "description":" Rated Output Power: 600W Fan Type: HYB Fan, 120mm Form Factor: ATX High efficiency ≧ 88%",
+        "price":200
+    },
+    {
+        "name": "Revenger FIRE Mini Tower Micro ATX RGB Gaming Case",
+        "image": "https://i.ibb.co/xzxpWr9/fire-01-228x228.webp",
+        "description":" Motherboard Support: MicroATX/ Mini ITXAcrylic Tempered Glass Side Panel I/O Port: USB2.0 x 2+ Audio 3 x RGB Fan Pre-installed",
+        "price":170
+    },
+    {
+        "name": "Revenger CRYSTAL 120mm ARGB Case Fan",
+        "image": "https://i.ibb.co/3dqR2ZZ/crystal-01-228x228.webp",
+        "description":"Fan Speed: 1200RPM ±10% Air Flow: 30 CFM  Noise Level: 19.5 dBA Connector: 4 Pin ",
+        "price":40
+    },
+    {
+        "name": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+        "image": "https://i.ibb.co/g9hPpzh/Core-i5-13600-K-01-228x228.webp",
+        "description":" Clock Speed: 3.50 GHz up to 5.10 GHz Cache: 24 MB, Socket: LGA1700 CPU Cores: 14, CPU Threads: 20 Graphics: Intel UHD Graphics 770",
+        "price":450
+    },
+    {
+        "name": "Revenger BULLET Mini Tower Micro ATX RGB Gaming Case with Power Supply",
+        "image": "https://i.ibb.co/PFYxQyk/bullet-01-228x228.webp",
+        "description":"Motherboard Support: MicroATX/ Mini ITX Acrylic Tempered Glass Side Panel 3 x RGB Fan Pre-installed 300 Watt Power Supply ",
+        "price":70
+    },
+    {
+        "name": "Lexar 4GB DDR4 2666 Mhz UDIMM Desktop RAM",
+        "image": "https://i.ibb.co/sQbXDSd/basic-4gb-ddr4-2666mhz-01-228x228.webp",
+        "description":" Memory: 4GB DDR4-2666 Interface: 288 Pin CAS Latency: CL22 Voltage: 1.2V",
+        "price":25
+    },
+    {
+        "name": "MaxGreen 5902 Blue ATX Casing",
+        "image": "https://i.ibb.co/5h7LBTz/5902-1-228x228.png",
+        "description":" ATX 1059 chassis 1*USB2.0+1*USB3.0+HD audio Front panel : black and blue  PSU (Included)",
+        "price":80
+    },
+    {
+        "name": "Corsair 470T RGB Mid-Tower Gaming Casing",
+        "image": "https://i.ibb.co/MMG1q06/470t-rgb-228x228.jpg",
+        "description":"Tool-Free Tempered Glass Side Panel Keep It Cool Angular RGB Front Panel All the Storage You Need ",
+        "price":70
+    },
+    {
+        "name": "Transcend 225S 250GB 2.5 Inch SATA III SSD",
+        "image": "https://i.ibb.co/bbQTjSz/225s-250gb-01-228x228.webp",
+        "description":"Capacity: 250GB Interface: SATA III 6Gb/s Flash Type: top-notch 3D NAND flash Sequential Read/Write:up to 500/330MB/s",
+        "price":140
+    }
+
+]
